@@ -9,4 +9,4 @@ The note-taking application uses the following libraries:
 - json: For reading and writing notes in JSON format, which allows easy data storage and retrieval.
 
 ## CONCLUSION
-this note-taking app is easy to use and helps people keep their notes safe and organized. Regular users can only see their own notes, while admins can access all notes. It saves notes in a simple format, making it easy to store and retrieve information. Overall, the app is a practical tool for anyone who wants to manage their notes effectively.
+This note-taking app is easy to use and helps people keep their notes safe and organized. Regular users can only see their own notes, while admins can access all notes. It saves notes in a simple format, making it easy to store and retrieve information. Overall, the app is a practical tool for anyone who wants to manage their notes effectively.
