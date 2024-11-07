@@ -89,10 +89,10 @@ def main_menu(username, is_admin):
             delete_note(notes)
         elif choice == '4':
             save_notes(username, notes)
-            print("Notes saved. Goodbye!")
+            print("Notes saved. Goodbye")
             break
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid choice! Please try again.")
 
 if __name__ == "__main__":
     action = input("Do you want to (1) Register or (2) Login? ")
@@ -104,4 +104,4 @@ if __name__ == "__main__":
             is_admin = role == 'admin'
             main_menu(username, is_admin)
     else:
-        print("Invalid choice.")
+        print("Invalid choice")
